@@ -1,8 +1,9 @@
 nav{
     margin: 0;
-    padding: 0;
-    background-color: #232323;
+    padding: 5px;
     display: flex;
     justify-content: space-between;
 }
+
+
 

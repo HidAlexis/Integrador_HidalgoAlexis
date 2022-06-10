@@ -8,11 +8,14 @@
 }
 
 .logoAP{
-    border-radius: 100%;
-    background-color: #232323;
-    transition: background-color .5s;
+    border-radius: 50%;
+    border: 1px solid #ffffff;
+    transition: all 0.5s ease;
 }
 .logoAP:hover{
-    background-color: #50FFAB;
-    transition: background-color .5s;
+    border: 1px solid #00ffbb;
+    background-color: #00ffbb5f;
+    box-shadow: 0 0 10px #00ffbb;
+    transition: all 0.5s ease;
 }
+

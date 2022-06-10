@@ -67,3 +67,13 @@
     color: #00e1ff;
     text-shadow: 0 0 15px #00e1ff;
 }
+
+.container ul li:hover.circle-user{
+    border: 1px solid #00ffbb;
+    box-shadow: 0 0 15px #00ff91;
+}
+
+.container ul li:hover .fa-circle-user{
+    color: #00ff91;
+    text-shadow: 0 0 15px #00ff91;
+}
