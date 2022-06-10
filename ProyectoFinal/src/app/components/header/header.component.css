@@ -1,3 +1,8 @@
-div{
-    background-color: #0065fc;
+nav{
+    margin: 0;
+    padding: 0;
+    background-color: #232323;
+    display: flex;
+    justify-content: space-between;
 }
+

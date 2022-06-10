@@ -1,3 +1,18 @@
+.container{
+    width: 120px;
+    padding: 5px;
+}
+
 #logo{
-    width: 200px;
+    width: 100px;
+}
+
+.logoAP{
+    border-radius: 100%;
+    background-color: #232323;
+    transition: background-color .5s;
+}
+.logoAP:hover{
+    background-color: #50FFAB;
+    transition: background-color .5s;
 }
